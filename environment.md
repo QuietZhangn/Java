@@ -1,8 +1,8 @@
 # 学习前的准备
 在mac m1电脑上进行学习。尽量跟着英文学习，中文的翻译带来理解的困难。
-学习教程：https://www.youtube.com/watch?v=eIrMbAQSU34
+[学习教程](https://www.youtube.com/watch?v=eIrMbAQSU34)
 
-- 在新建md文件时，要在文件名后加上.md的后缀
+- 在新建md文件时，要在文件名后加上.md的后缀。[md语法](https://www.jianshu.com/p/399e5a3c7cc5)
 ## 环境搭建
 + git版本查看
 命令行输入 git --version。后面写代码可以把环境同步到本地。
