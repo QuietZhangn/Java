@@ -7,6 +7,8 @@
 + git版本查看
 命令行输入 git --version。后面写代码可以把环境同步到本地。
 
-+ ！Java开发环境
-+ 编译器 idea，跟着教程的环境搭建。还是随便一个最新版的环境都可以。先看看视频/教程如何说。
++ Java开发环境
 make it easy,能使用就行，不用搞那些复杂的破解idea/maven的配置，都不需要，你是学Java，还远没到工作所需要的阶段。**尽快的上手才是正途**。
+1. jdk
+2. idea
+that is all you need to learn java.
