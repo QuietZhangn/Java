@@ -9,6 +9,6 @@
 
 + Java开发环境
 make it easy,能使用就行，不用搞那些复杂的破解idea/maven的配置，都不需要，你是学Java，还远没到工作所需要的阶段。**尽快的上手才是正途**。
-1. jdk
-2. idea
-that is all you need to learn java.
+jdk and idea，that is all you need to learn java.
++jdk安装地址[azul](https://www.azul.com/downloads/?package=jdk)，下载64位arm，对应着m1.
++idea社区版足以。
