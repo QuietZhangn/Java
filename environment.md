@@ -16,3 +16,7 @@ jdk and idea，that is all you need to learn java.
 ## 开始学习
 1. 跟着视频看
 2. 书籍：《head first java》
+## github and idea connect
+write code on idea, and then just push to github. COOL!
+
+concrete steps,菜单栏里的vcs，选择git，然后通过git来推送，idea首先会在本地建立一个git文件夹，然后推送，这时需要输入github账号。
