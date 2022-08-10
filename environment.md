@@ -13,3 +13,6 @@ jdk and idea，that is all you need to learn java.
 
 + jdk安装地址[azul](https://www.azul.com/downloads/?package=jdk)，下载64位arm，对应着m1.
 + idea社区版足以。
+## 开始学习
+1. 跟着视频看
+2. 书籍：《head first java》
